@@ -1,3 +1,3 @@
 # hello-world
 I smell like cheese
-Im very ugly
+and Im very ugly
